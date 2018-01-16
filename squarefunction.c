@@ -1,5 +1,4 @@
 #include<stdio.h>
-#run_as_gcc_(filename)-o_squarefunction.c
 int square ( int v );
 
 int main( )
